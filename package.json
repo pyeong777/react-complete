@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/pyeong777/react-complete.git",
+  "author": "pyeong777 <sdp1123@naver.com>",
+  "license": "MIT"
 }
